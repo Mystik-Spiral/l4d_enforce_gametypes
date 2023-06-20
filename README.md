@@ -12,7 +12,7 @@ My server has sv_gametypes set to "coop,realism,nightmaredifficulty", but I was 
 
 Please be aware this will block all mutations that are not listed in sv_gametypes, even if the base gamemode for the mutation is listed.
   
-This plugin does not have any configurable console variables, though it does read the values for the Valve console variables [URL="https://developer.valvesoftware.com/wiki/List_of_L4D2_Cvars"]sv_gametypes[/URL] and [URL="https://developer.valvesoftware.com/wiki/List_of_L4D2_Cvars"]mp_gamemode[/URL].
+This plugin does not have any configurable console variables, though it does read the values for the Valve console variables sv_gametypes and mp_gamemode.
   
 Notes:
 
