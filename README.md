@@ -13,6 +13,7 @@ My server has sv_gametypes set to "coop,realism,nightmaredifficulty", but I was 
 Please be aware this will block all mutations that are not listed in sv_gametypes, even if the base gamemode for the mutation is listed.
   
 This plugin does not have any configurable console variables, though it does read the values for the Valve console variables sv_gametypes and mp_gamemode.
+
   
 Notes:
 
@@ -22,7 +23,18 @@ If sv_gametypes is not set in your server.cfg file, it should default to:
 coop,realism,survival,versus,scavenge,dash,holdout,shootzones
 
 I do not plan to add any new features, but if you find any bugs, please let me know and I will do my best to correct them.  I have only tested this with L4D2, but I expect it should also work with L4D1.  It will probably work with any game that uses sv_gametypes and mp_gamemode.
-  
+
+
+Credits:
+
+Game modes on/off/tog by Silvers 
+
+Want to contribute code enhancements?
+Create a pull request using this GitHub repository: https://github.com/Mystik-Spiral/l4d_enforce_gametypes
+
+Plugin discussion: https://forums.alliedmods.net/showthread.php?t=342570
+
+
 Changelog:
 
 19-Jun-2023 v1.3
@@ -39,4 +51,6 @@ Changelog:
 
 
 Installation:
+
 Place the l4d_enforce_gametypes.smx file in the SourceMod "plugins" directory.
+
