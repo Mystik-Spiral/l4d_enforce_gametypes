@@ -48,20 +48,20 @@ https://forums.alliedmods.net/showthread.php?t=342570
    
 **Changelog:** 
 
-26-Jun-2023 v1.4
-- Fixed compatibility issue with L4D1
+26-Jun-2023 v1.4  
+-- Fixed compatibility issue with L4D1
 
-19-Jun-2023 v1.3
-- Fixed issue if mp_gamemode was defined in server.cfg
+19-Jun-2023 v1.3  
+-- Fixed issue if mp_gamemode was defined in server.cfg
 
-08-May-2023 v1.2
-- Reject connections if changelevel is already in progress to reset the mp_gamemode
+08-May-2023 v1.2  
+-- Reject connections if changelevel is already in progress to reset the mp_gamemode
 
-02-May-2023 v1.1
-- On reject, changelevel to set an allowed mp_gamemode (uses first entry in sv_gametypes).
+02-May-2023 v1.1  
+-- On reject, changelevel to set an allowed mp_gamemode (uses first entry in sv_gametypes).
 
-25-Apr-2023 v1.0
-- Initial release
+25-Apr-2023 v1.0  
+-- Initial release
 
    
 **Installation:**
