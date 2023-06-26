@@ -16,7 +16,7 @@ This plugin does not have any configurable console variables, though it does rea
 
 Please ensure these two Valve console variables are explicitly set in the server.cfg file the way you want them:
 
-sv_hibernate_when_empty
+sv_hibernate_when_empty  
 sb_all_bot_game
 
  
