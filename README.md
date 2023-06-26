@@ -34,8 +34,8 @@ I do not plan to add any new features, but if you find any bugs, please let me k
 
 **Credits:**
 
-Game modes on/off/tog code: Silvers
-Reminder that mp_gamemode may be set in server.cfg: Mika Misori
+Game modes on/off/tog code: Silvers  
+Reminder that mp_gamemode may be set in server.cfg: Mika Misori  
 Reminder that L4D1/2 map names are different: Ja-Forces
  
 Want to contribute code enhancements?
