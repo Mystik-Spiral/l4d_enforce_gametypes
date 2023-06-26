@@ -39,9 +39,11 @@ Reminder that mp_gamemode may be set in server.cfg: Mika Misori
 Reminder that L4D1/2 map names are different: Ja-Forces
  
 Want to contribute code enhancements?
-Create a pull request using this GitHub repository: https://github.com/Mystik-Spiral/l4d_enforce_gametypes
+Create a pull request using this GitHub repository:  
+https://github.com/Mystik-Spiral/l4d_enforce_gametypes
 
-Plugin discussion: https://forums.alliedmods.net/showthread.php?t=342570
+Plugin discussion:  
+https://forums.alliedmods.net/showthread.php?t=342570
 
 
 **Changelog:** 
